@@ -2,4 +2,4 @@
 
 # Predicted Temperature, Windspeed and Pressure 
 
-![](image/Temperature_prediction.PNG)
+![]("image/Temperature_prediction.PNG")
